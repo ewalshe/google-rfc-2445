@@ -10,8 +10,8 @@
     </parent>
 
     <groupId>com.google</groupId>
-    <artifactId>rfc2455</artifactId>
-    <version>1.4Mar2011</version>
+    <artifactId>rfc2445</artifactId>
+    <version>4Mar2011</version>
 
     <packaging>jar</packaging>
 
